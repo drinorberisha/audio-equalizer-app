@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "audio.h": "c",
+        "main.h": "c",
+        "global_values.h": "c",
+        "fftw3.h": "c"
+    }
+}
